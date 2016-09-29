@@ -1,0 +1,16 @@
+{
+  "name": "httptester",
+  "version": "1.4.4",
+  "description": "Node module for http tests",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./lib/httptester.js",
+  "author": "Othmane Ghazi <oghazi@scalair.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.75.0",
+    "crypto-js": "*",
+    "underscore": "*"
+  }
+}
